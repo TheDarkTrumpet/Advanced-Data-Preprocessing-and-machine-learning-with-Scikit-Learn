@@ -12,6 +12,7 @@ Author Repository: https://github.com/ParagDataEngineerScientist/Advanced-Data-P
 ## Changes Made
 1. Removal of all .DS_Store add to .gitignore
 2. Removal of the empty directory `Advanced-Data-Preprocessing-and-machine-learning-with-Scikit-Learn` at the root
+3. Removed all `.ipynb_checkpoints` and added to gitignore
 
 
 
